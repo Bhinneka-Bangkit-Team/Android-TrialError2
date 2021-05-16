@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10357146237",
+    "project_id": "loginregis-2dfdb",
+    "storage_bucket": "loginregis-2dfdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10357146237:android:3519de83e700d3d0b3a714",
+        "android_client_info": {
+          "package_name": "com.bhinneka.loginregis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10357146237-3ljvimnjr4esqkm9rbrt8f88fprngfrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFry61r4YsKTXzIhsvUiiSIm4jqrsauek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10357146237-3ljvimnjr4esqkm9rbrt8f88fprngfrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
